@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/call-api-hooks/static/css/main.dee8b394.chunk.css",
+    "main.js": "/call-api-hooks/static/js/main.ad7264dd.chunk.js",
+    "main.js.map": "/call-api-hooks/static/js/main.ad7264dd.chunk.js.map",
+    "runtime-main.js": "/call-api-hooks/static/js/runtime-main.dc69af63.js",
+    "runtime-main.js.map": "/call-api-hooks/static/js/runtime-main.dc69af63.js.map",
+    "static/js/2.cea2aa46.chunk.js": "/call-api-hooks/static/js/2.cea2aa46.chunk.js",
+    "static/js/2.cea2aa46.chunk.js.map": "/call-api-hooks/static/js/2.cea2aa46.chunk.js.map",
+    "static/js/3.93573395.chunk.js": "/call-api-hooks/static/js/3.93573395.chunk.js",
+    "static/js/3.93573395.chunk.js.map": "/call-api-hooks/static/js/3.93573395.chunk.js.map",
+    "static/js/4.1626ef2b.chunk.js": "/call-api-hooks/static/js/4.1626ef2b.chunk.js",
+    "static/js/4.1626ef2b.chunk.js.map": "/call-api-hooks/static/js/4.1626ef2b.chunk.js.map",
+    "static/js/5.6fc8842b.chunk.js": "/call-api-hooks/static/js/5.6fc8842b.chunk.js",
+    "static/js/5.6fc8842b.chunk.js.map": "/call-api-hooks/static/js/5.6fc8842b.chunk.js.map",
+    "index.html": "/call-api-hooks/index.html",
+    "static/css/main.dee8b394.chunk.css.map": "/call-api-hooks/static/css/main.dee8b394.chunk.css.map",
+    "static/js/3.93573395.chunk.js.LICENSE.txt": "/call-api-hooks/static/js/3.93573395.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc69af63.js",
+    "static/js/3.93573395.chunk.js",
+    "static/css/main.dee8b394.chunk.css",
+    "static/js/main.ad7264dd.chunk.js"
+  ]
+}
